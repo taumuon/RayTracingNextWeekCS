@@ -11,3 +11,5 @@ and invoke:
 dotnet run --property:Configuration=Release 9
 
 The last parameter is the scene parameter
+
+https://taumuon.co.uk/blog/2026-01-31-ray-tracing-next-week-in-rust-and-csharp/
